@@ -154,7 +154,7 @@ O usa VS Code con la extensión Jupyter.
 
 ## Autor
 
-Proyecto de análisis de datos - Mis-recursos
+Jonathan Tautiva - jtautivac@udistrital.edu.co
 
 ## Fecha de Última Actualización
 
