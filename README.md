@@ -1,4 +1,4 @@
-# Mis-recursos
+# Calidad_de_Datos_samples
 
 Proyecto de análisis y limpieza de datos sobre recursos turísticos, museos y crimen en Madrid.
 
